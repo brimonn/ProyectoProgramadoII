@@ -30,7 +30,7 @@ public class Patient extends Person {
         this.tContactEmergency = data[8];
             
         }else{
-           throw new Exception("El tamanio del arreglo debe ser de 4");
+           throw new Exception("El tamanio del arreglo debe ser de 8");
         }     
         
              

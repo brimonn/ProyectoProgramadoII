@@ -21,7 +21,7 @@ private LocalDate birthdate;
 
 public Person(){}
 
-public Person(String id, String name, String lastName, String phone, String email, String direction, LocalDate birthdate){
+/*public Person(String id, String name, String lastName, String phone, String email, String direction, LocalDate birthdate){
     this.id=id;
     this.name=name;
     this.lastName=lastName;
@@ -29,7 +29,7 @@ public Person(String id, String name, String lastName, String phone, String emai
     this.email=email;
     this.direction=direction;
     this.birthdate=birthdate;
-}
+}*/
 
     /**
      * @return the id
